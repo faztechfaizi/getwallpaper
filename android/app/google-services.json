@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "484591327430",
+    "project_id": "fazwall",
+    "storage_bucket": "fazwall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484591327430:android:326b20a20a296d52d75fc7",
+        "android_client_info": {
+          "package_name": "com.example.getwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484591327430-p5n5br7ri40lk9hij0lao2b22o58c70l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.getwallpaper",
+            "certificate_hash": "49f362a5b8a5cb401f43bfd410b226329481b0dc"
+          }
+        },
+        {
+          "client_id": "484591327430-vqfhuthgncgvovvccn3oqh0al9br4l52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIv80xlsa5WQlQHxwIX4OTp_jHDsGigpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484591327430-vqfhuthgncgvovvccn3oqh0al9br4l52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

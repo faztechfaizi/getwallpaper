@@ -1,0 +1,57 @@
+import 'package:flutter/material.dart';
+
+ const TextTheme tTextTheme = TextTheme(
+  overline: TextStyle(
+      fontFamily: 'Roboto',
+      color: Colors.black,
+      decoration: TextDecoration.none),
+  caption: TextStyle(
+      fontFamily: 'Roboto',
+      color: Colors.black87,
+      decoration: TextDecoration.none),
+  button: TextStyle(
+      fontFamily: 'Roboto',
+      color: Colors.black,
+      decoration: TextDecoration.none),
+  bodyText1: TextStyle(
+      fontFamily: 'SubFont',
+      color: Colors.white,
+      decoration: TextDecoration.none),
+  bodyText2: TextStyle(
+      fontFamily: 'Roboto',
+      color: Colors.black,
+      decoration: TextDecoration.none),
+  headline1: TextStyle(
+      fontFamily: 'Roboto',
+      color: Colors.black,
+      decoration: TextDecoration.none),
+  headline2: TextStyle(
+      fontFamily: 'Roboto',
+      color: Colors.black,
+      decoration: TextDecoration.none),
+  headline3: TextStyle(
+      fontFamily: 'FontMain',
+      color: Colors.white,
+      decoration: TextDecoration.none),
+  headline4: TextStyle(
+      fontFamily: 'FontMain',
+      fontWeight: FontWeight.bold,
+      color: Colors.black,
+      decoration: TextDecoration.none),
+  headline5: TextStyle(
+      fontFamily: 'FontMain',
+      color: Colors.white,
+      decoration: TextDecoration.none),
+  headline6: TextStyle(
+      fontFamily: 'SubFont',
+      color: Colors.black,
+      decoration: TextDecoration.none),
+  subtitle1: TextStyle(
+      fontFamily: 'SubFont',
+      color: Colors.black,
+      decoration: TextDecoration.none),
+  subtitle2: TextStyle(
+      fontFamily: 'SubFont',
+      color: Colors.white,
+      decoration: TextDecoration.none),
+);
